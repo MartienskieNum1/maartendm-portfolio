@@ -1,0 +1,34 @@
+/*VARIABLES*/
+/*GENERAL RULES*/
+body {
+  background-color: #030b15;
+  font-family: "Barlow", sans-serif;
+  color: #f7f6f7;
+  padding: 5px; }
+
+section {
+  min-height: 100vh; }
+
+h2 {
+  font-size: 2em;
+  margin: 40px 0; }
+
+h3 {
+  font-size: 1.3em; }
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit; }
+
+.flex-container {
+  display: flex; }
+
+header {
+  position: fixed;
+  height: 30px;
+  z-index: 5; }
+  header h3 {
+    text-transform: uppercase; }
+
+/*# sourceMappingURL=style.css.map */

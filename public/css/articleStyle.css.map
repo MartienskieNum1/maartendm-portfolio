@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAa;AAMb,cAAc",
+"sources": ["../../resources/sass/articleStyle.scss"],
+"names": [],
+"file": "articleStyle.css"
+}

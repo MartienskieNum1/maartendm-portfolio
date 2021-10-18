@@ -1,0 +1,25 @@
+{
+    "posts": [
+        {
+            "date": "25/09/2021",
+            "topic": "convention",
+            "title": "Article 1",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque, perspiciatis fugiat. Obcaecati debitis incidunt itaque porro voluptate tempore tenetur molestiae animi vel consequuntur, suscipit quaerat minima error, aliquam sint natus.",
+            "content": "<p>lololol<p>"
+        },
+        {
+            "date": "27/09/2021",
+            "topic": "convention",
+            "title": "Article 2",
+            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+            "content": "<p>whutututut</p>"
+        },
+        {
+            "date": "27/09/2021",
+            "topic": "convention",
+            "title": "Article 3",
+            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+            "content": "<p>GOt em</p>"
+        }
+    ]
+}
