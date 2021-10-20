@@ -15,6 +15,7 @@
         <h3><a href="/">Maarten De Meyere</a></h3>
     </header>
     <main>
+        <p id="date-topic">{{$post['date']}} | {{$post['topic']}}</p>
         <h2>{{$post['title']}}</h2>
         {!! $post['content'] !!}
     </main>
