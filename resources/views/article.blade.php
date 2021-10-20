@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="{{asset("css/reset.css")}}"/>
     <link rel="stylesheet" href="{{asset("css/style.css")}}"/>
     <link rel="stylesheet" href="{{asset("css/articleStyle.css")}}"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/tiny-slider.css">
 </head>
 <body>
     <header>
@@ -18,6 +19,21 @@
         <p id="date-topic">{{$post['date']}} | {{$post['topic']}}</p>
         <h2>{{$post['title']}}</h2>
         {!! $post['content'] !!}
+
+
+        @isset($post['images'])
+            @if(count($post['images']) < 3)
+                
+            @else
+                <div class="my-slider">
+                    @foreach($post['images'] as $image)
+                        <div><img src="{{asset($image)}}"/></div>
+                    @endforeach
+                </div>
+            @endif
+        @endisset
     </main>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+    <script type="text/javascript" src="{{asset('js/tiny-slider-conf.js')}}"></script>
 </body>
 </html>

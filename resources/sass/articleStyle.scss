@@ -12,7 +12,7 @@ body {
 
 main {
     border: 1px solid $secondary-color;
-    width: 57%;
+    width: 55%;
     margin: 50px auto;
     padding: 35px;
     background-color: $tertiary-color;
@@ -22,7 +22,15 @@ h2 {
     margin-bottom: 40px;
 }
 
+.my-slider {
+    margin-top: 40px;
+}
+
 #date-topic {
     opacity: 0.6;
     margin-bottom: 10px;
+}
+
+img {
+    width: 90%;
 }
