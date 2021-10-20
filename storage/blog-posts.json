@@ -6,8 +6,11 @@
             "topic": "convention",
             "title": "Article 1",
             "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque, perspiciatis fugiat. Obcaecati debitis incidunt itaque porro voluptate tempore tenetur molestiae animi vel consequuntur, suscipit quaerat minima error, aliquam sint natus.",
-            "content": 
-                "<p>lololol<p>"
+            "images": ["img/big-data.jpg"],
+            "content": [
+                "<p>lololol</p>",
+                "<p>I am the matrix</p>"
+            ]
         },
         {
             "banner": "img/big-data.jpg",
@@ -16,8 +19,9 @@
             "title": "Article 2",
             "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
             "images": ["img/big-data.jpg", "img/big-data.jpg"],
-            "content": 
+            "content": [
                 "<p>whutututut</p>"
+            ]
         },
         {
             "banner": "img/big-data.jpg",
@@ -26,8 +30,9 @@
             "title": "Article 3",
             "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
             "images": ["img/big-data.jpg", "img/big-data.jpg", "img/big-data.jpg"],
-            "content": 
+            "content": [
                 "<p>GOt em</p>"
+            ]
         }
     ]
 }

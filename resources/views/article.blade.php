@@ -18,7 +18,10 @@
     <main>
         <p id="date-topic">{{$post['date']}} &nbsp; | &nbsp; {{$post['topic']}}</p>
         <h2>{{$post['title']}}</h2>
-        {!! $post['content'] !!}
+
+        @foreach($post['content'] as $content)
+            {!! $content !!}
+        @endforeach
 
         @isset($post['images'])
             <div class="images">
