@@ -1,6 +1,7 @@
 {
     "posts": [
         {
+            "banner": "img/big-data.jpg",
             "date": "25/09/2021",
             "topic": "convention",
             "title": "Article 1",
@@ -9,6 +10,7 @@
                 "<p>lololol<p>"
         },
         {
+            "banner": "img/big-data.jpg",
             "date": "27/09/2021",
             "topic": "convention",
             "title": "Article 2",
@@ -18,6 +20,7 @@
                 "<p>whutututut</p>"
         },
         {
+            "banner": "img/big-data.jpg",
             "date": "27/09/2021",
             "topic": "convention",
             "title": "Article 3",
