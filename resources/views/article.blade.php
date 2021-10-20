@@ -20,17 +20,22 @@
         <h2>{{$post['title']}}</h2>
         {!! $post['content'] !!}
 
-
         @isset($post['images'])
-            @if(count($post['images']) < 3)
-                
-            @else
-                <div class="my-slider">
-                    @foreach($post['images'] as $image)
-                        <div><img src="{{asset($image)}}"/></div>
-                    @endforeach
-                </div>
-            @endif
+            <div class="images">
+                @if(count($post['images']) < 3)
+                    <div class="flex-container">
+                        @foreach($post['images'] as $image)
+                            <img src="{{asset($image)}}"/>
+                        @endforeach
+                    </div>
+                @else
+                    <div class="my-slider">
+                        @foreach($post['images'] as $image)
+                            <img src="{{asset($image)}}"/>
+                        @endforeach
+                    </div>
+                @endif
+            </div>
         @endisset
     </main>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>

@@ -6,7 +6,7 @@ var slider = tns({
     speed: 450,
     swipeAngle: false,
     slideBy: "page",
-    gutter: 0,
+    gutter: 30,
     nav: false,
     controls: false,
     loop: true
