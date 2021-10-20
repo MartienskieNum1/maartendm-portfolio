@@ -6,3 +6,23 @@ $tertiary-color: #192d50;
 
 /*PAGE RULES*/
 
+body {
+    background-color: $primary-color;
+}
+
+main {
+    border: 1px solid $secondary-color;
+    width: 57%;
+    margin: 50px auto;
+    padding: 35px;
+    background-color: $tertiary-color;
+}
+
+h2 {
+    margin-bottom: 40px;
+}
+
+#date-topic {
+    opacity: 0.6;
+    margin-bottom: 10px;
+}
