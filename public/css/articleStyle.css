@@ -15,8 +15,15 @@ h2 {
 
 .images {
   margin-top: 40px; }
-  .images img {
-    width: 90%; }
+
+.my-slider img {
+  width: 90%; }
+
+.my-slider:hover {
+  cursor: grab; }
+
+.my-slider:active {
+  cursor: grabbing; }
 
 .flex-container {
   display: flex;
