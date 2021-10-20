@@ -29,7 +29,8 @@ h2 {
   display: flex;
   justify-content: space-between; }
   .flex-container img {
-    width: 49%; }
+    width: 49%;
+    margin: auto; }
 
 #date-topic {
   opacity: 0.6;
