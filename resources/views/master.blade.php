@@ -28,7 +28,7 @@
                     <article>
                         <img src="{{asset("img/big-data.jpg")}}"/>
                         <div class="content">
-                            <p id="date-topic">{{$post['date']}} | {{$post['topic']}}</p>
+                            <p id="date-topic">{{$post['date']}} &nbsp; | &nbsp; {{$post['topic']}}</p>
                             <h3>{{$post['title']}}</h3>
                             <p>{{$post['description']}}</p>
                             <a href="/articles/{{$url}}">Read more</a>
