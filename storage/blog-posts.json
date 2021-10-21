@@ -1,35 +1,50 @@
 {
     "posts": [
         {
-            "banner": "img/big-data.jpg",
-            "date": "25/09/2021",
-            "topic": "convention",
-            "title": "Article 1",
-            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque, perspiciatis fugiat. Obcaecati debitis incidunt itaque porro voluptate tempore tenetur molestiae animi vel consequuntur, suscipit quaerat minima error, aliquam sint natus.",
-            "images": ["img/big-data.jpg"],
+            "banner": "img/Rise-of-The-Blog.png",
+            "date": "20/10/2021",
+            "topic": "development",
+            "title": "Rise of The Blog",
+            "description": "Here you can read about why and how this blog came to exist.",
+            "images": [
+                "img/CCCP.jpg"
+            ],
             "content": [
-                "<p>lololol</p>",
-                "<p>I am the matrix</p>"
+                "<p>Me, writing this post, means that I've made it in the third and final year of my bachelor education at Howest. What a road it has been! Each of my semesters consisted out of diverse courses, labs and projects of which this blog / portfolio is one.</p>",
+                "<p>For the course <em>Professional Networking</em> we received the assignment to attend multiple events that have to do with the education and write our findings down in a selfmade blog in a professional manner. So here it is!</p>",
+                "<p>Setting up this project, I wanted to have as much control as possible and use my acquired skills in web development and server management to the fullest. So I decided to use an on-premise web server and do all configuration on my own.</p>",
+                "<p>All went smooth. Downloading and installing the necessary software, figuring out all configurations and of course, making the whole system as secure as possible. Before I knew it, I had the thing up and running locally. Next up, making sure that my visitors and I have access from all around the globe. Shouldn't be much of a deal right? Just create some port forwards and we're good to go. Unfortunately, I was wrong.</p>",
+                "<p>Forwarding for my SSH connection and a Minecraft server I had running were working fine, but for some reason, I just couldn't get ports 80 and 443 to open which are required to access my website. And so I began the debugging process. After a lot of head scratching, testing different ports, messing with configurations and blaming my precious server, I finally reached out to the helpdesk and forum of my ISP. The helpdesk had no clue what I was talking about ofcourse but the forum gave a clue about a setting in the mobile app of the ISP in which you can make some minor configurations of your devices.</p>",
+                "<p>I reached out to my mom, searched her client ID of the provider and made her an account for the app. There it finally was! A button to configure the \"security\" of my router. High security meant that ports 80, 443 and 445 were impossible to open... I placed it on low security and a reboot later I could access my website from the internet. Sigh..</p>",
+                "<p>Don't get me wrong. I appreciate that my ISP does its best to secure its devices and protect its clients and they do a good job at that compared to other cases I've encountered but I think that anyone who finds theirselves in the port forwarding settings, opening port 80 and/or 443, knows what they are doing. I could be severely wrong about that but at least the helpdesk should have a clue about the existence of this option. ISPs am I right?</p>",
+                "<p>And so I could start creating the layout of my portfolio, writing my blog posts and share my experiences with you! Feel free to check out my <a href='https://github.com/MartienskieNum1' target='_blank'>GitHub</a> account too where also the source code of this portfolio can be found ;)</p>"
             ]
         },
         {
-            "banner": "img/big-data.jpg",
+            "banner": "img/Cyber-Security-Challenge.png",
             "date": "27/09/2021",
-            "topic": "convention",
-            "title": "Article 2",
-            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
-            "images": ["img/big-data.jpg", "img/big-data.jpg"],
+            "topic": "hackathon",
+            "title": "Cyber Security Challenge 2020",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+            "images": [
+                "img/big-data.jpg",
+                "img/big-data.jpg"
+            ],
             "content": [
                 "<p>whutututut</p>"
             ]
         },
         {
-            "banner": "img/big-data.jpg",
+            "banner": "img/Cyber-Security-Challenge.png",
             "date": "27/09/2021",
-            "topic": "convention",
-            "title": "Article 3",
-            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
-            "images": ["img/big-data.jpg", "img/big-data.jpg", "img/big-data.jpg"],
+            "topic": "hackathon",
+            "title": "Cyber Security Challenge 2021",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+            "images": [
+                "img/big-data.jpg",
+                "img/big-data.jpg",
+                "img/big-data.jpg"
+            ],
             "content": [
                 "<p>GOt em</p>"
             ]
