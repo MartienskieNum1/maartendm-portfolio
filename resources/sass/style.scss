@@ -15,7 +15,7 @@ body {
 
 p {
     font-size: 1.1em;
-    line-height: 1.1em;
+    line-height: 1.6em;
     margin-bottom: 20px;
 }
 
@@ -35,6 +35,10 @@ a {
     cursor: pointer;
     text-decoration: none;
     color: inherit;
+}
+
+em {
+    font-style: italic;
 }
 
 .flex-container {
