@@ -37,11 +37,11 @@
                             <img src="{{asset($image)}}"/>
                         @endforeach
                     </div>
+                    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+                    <script type="text/javascript" src="{{asset('js/tiny-slider-conf.js')}}"></script>
                 @endif
             </div>
         @endisset
     </main>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
-    <script type="text/javascript" src="{{asset('js/tiny-slider-conf.js')}}"></script>
 </body>
 </html>
