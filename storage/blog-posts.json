@@ -2,7 +2,7 @@
     "posts": [
         {
             "banner": "img/Rise-of-The-Blog.png",
-            "date": "20/10/2021",
+            "date": "21/10/2021",
             "topic": "development",
             "title": "Rise of The Blog",
             "description": "Here you can read about why and how this blog came to exist.",
@@ -22,31 +22,33 @@
         },
         {
             "banner": "img/Cyber-Security-Challenge.png",
-            "date": "27/09/2021",
+            "date": "02/11/2021",
             "topic": "hackathon",
             "title": "Cyber Security Challenge 2020",
-            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+            "description": "My first ever hackathon and Capture The Flag challenge!",
             "images": [
-                "img/big-data.jpg",
-                "img/big-data.jpg"
+                "img/lots-of-food.jpg"
             ],
             "content": [
-                "<p>whutututut</p>"
+                "<p>As my first extracurricular IT event, I participated in the Cyber Security Challenge of Belgium. A Capture The Flag based hackathon that is organised each year in March in which students can participate in teams of maximum four. During this challenge, the students need to find solutions for \"puzzles\" in a wide range of topics like cryptography, reverse engineering, network security, web or mobile application security, steganography, wireless and forensics analysis.</p>",
+                "<p>Being my first hackathon, I was pretty nervous and didn't know what to expect, and whether it was worth skipping a few lessons since I had only just begun my education. Fortunately, I had a bunch of good friends by my side with whom a good time was guaranteed!</p>",
+                "<p>We had to prepare ourselves for the all-nighter we were about to commit, so we stocked up on drinks, snacks and some banging playlists to survive the night. And so it began, from the beginning until the end, we did research, scanned networks, gazed upon code, images and soundwave forms, put our heads together for hours on end to score as high as possible in the leaderboard.</p>",
+                "<p>Despite our best efforts we ended in the 124th place out of the 204 who participated. However, it didn't feel like a defeat! We were more than satisfied with how far we had come and the newly gathered knowledge. We were hyped to participate again next year to apply our now more superior hacking experience!</p>"
             ]
         },
         {
             "banner": "img/Cyber-Security-Challenge.png",
-            "date": "27/09/2021",
+            "date": "23/10/2021",
             "topic": "hackathon",
             "title": "Cyber Security Challenge 2021",
-            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+            "description": "Work In Progress",
             "images": [
                 "img/big-data.jpg",
                 "img/big-data.jpg",
                 "img/big-data.jpg"
             ],
             "content": [
-                "<p>GOt em</p>"
+                "<p>Work In Progress</p>"
             ]
         }
     ]
