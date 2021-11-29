@@ -26,7 +26,7 @@
                 @foreach($posts as $post)
                     <?php $url = str_replace(' ', '-', $post['title']); ?>
                     <article>
-                        <img src="{{asset($post['banner'])}}"/>
+                        <a href="/articles/{{$url}}"><img src="{{asset($post['banner'])}}"/></a>
                         <div class="content">
                             <p id="date-topic">{{$post['date']}} &nbsp; | &nbsp; {{$post['topic']}}</p>
                             <h3>{{$post['title']}}</h3>
