@@ -33,22 +33,22 @@
                 "<p>As my first extracurricular IT event, I participated in the Cyber Security Challenge of Belgium. A Capture The Flag based hackathon that is organised each year in March in which students can participate in teams of maximum four. During this challenge, the students need to find solutions for \"puzzles\" in a wide range of topics like cryptography, reverse engineering, network security, web or mobile application security, steganography, wireless and forensics analysis.</p>",
                 "<p>Being my first hackathon, I was pretty nervous and didn't know what to expect, and whether it was worth skipping a few lessons since I had only just begun my education. Fortunately, I had a bunch of good friends by my side with whom a good time was guaranteed!</p>",
                 "<p>We had to prepare ourselves for the all-nighter we were about to commit, so we stocked up on drinks, snacks and some banging playlists to survive the night. And so it began, from the beginning until the end, we did research, scanned networks, gazed upon code, images and soundwave forms, put our heads together for hours on end to score as high as possible in the leaderboard.</p>",
-                "<p>Despite our best efforts we ended in the 124th place out of the 204 who participated. However, it didn't feel like a defeat! We were more than satisfied with how far we had come and the newly gathered knowledge. We were hyped to participate again next year to apply our now more superior hacking experience!</p>"
+                "<p>Despite our best efforts, Vulpes, our group, ended in the 124th place out of the 204 who participated. However, it didn't feel like a defeat! We were more than satisfied with how far we had come and the newly gathered knowledge. We were hyped to participate again next year to apply our now more superior hacking experience!</p>"
             ]
         },
         {
             "banner": "img/Cyber-Security-Challenge.png",
-            "date": "23/10/2021",
+            "date": "29/11/2021",
             "topic": "hackathon",
             "title": "Cyber Security Challenge 2021",
-            "description": "Work In Progress",
-            "images": [
-                "img/big-data.jpg",
-                "img/big-data.jpg",
-                "img/big-data.jpg"
-            ],
+            "description": "A new take on the CSC. No more groping in the dark... (or at least less)",
+            "images": [],
             "content": [
-                "<p>Work In Progress</p>"
+                "<p>Coming into my second Cyber Security Challenge, I had a whole different feeling about this years edition. I was less stressed, because I did know what kind of challenges and puzzles to expect, covering which topics and probably because this time I knew that it was totally worth my time and sleep. The only thing I felt on my mind was that I was curious to know how big an impact my first year of IT experience, education and projects would have on my ability to solve these challenges and on our end result.</p>",
+                "<p>We had a good start. We were finding flags at a good pace and wriggled our way up the leaderboard. At one point, at the end of the first day when we suddenly got a lot of flags, we even got into the top 10! This was an enormous morale boost to keep it up and we saw a chance to get into the next round. However, there was still a lot of time left. We decided, on this high, to get a bit of sleep.</p>",
+                "<p>After two hours or so, we got back to work. We checked our placement and saw that we were kicked out of the top 10 but not by much. We eagerly got back to finding those precious flags expecting that we would be back in the run in no time. How we were wrong... The second \"day\", we only found one flag. Slowly but surely, our placement sank down, but not our perseverance!</p>",
+                "<p>We kept looking and looking but with no results. At the end, we became somewhat desperate and thus we began solving puzzles manually which were supposed to be solved by scripting. Like manually noting down 1s and 0s based on long and short beeps in a wav file in an attempt to create a png file. We got to half of it but ran out of time. I still think that if we would've done the other half, we would've found it!</p>",
+                "<p>And so the CSC came to an end. Our group, the Byte Busters, was placed 71st out of the 171 participating. Somewhat dissapointed that we couldn't make it in the second round but very proud of our improved result in comparison with past year. We'll be back next year!</p>"
             ]
         }
     ]
