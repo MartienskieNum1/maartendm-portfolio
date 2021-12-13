@@ -19,11 +19,11 @@ a {
 .images {
   margin-top: 40px; }
 
+.my-slider span {
+  text-align: center; }
 .my-slider img {
   max-width: 100%;
-  max-height: 500px;
-  display: block;
-  margin: auto; }
+  max-height: 500px; }
 
 .my-slider:hover {
   cursor: grab; }
