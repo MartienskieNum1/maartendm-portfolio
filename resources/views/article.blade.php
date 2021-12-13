@@ -28,13 +28,13 @@
                 @if(count($post['images']) < 3)
                     <div class="flex-container">
                         @foreach($post['images'] as $image)
-                            <img src="{{asset($image)}}"/>
+                            <img id="image" src="{{asset($image)}}"/>
                         @endforeach
                     </div>
                 @else
                     <div class="my-slider">
                         @foreach($post['images'] as $image)
-                            <img src="{{asset($image)}}"/>
+                            <span><img id="image" src="{{asset($image)}}"/></span>
                         @endforeach
                     </div>
                     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
