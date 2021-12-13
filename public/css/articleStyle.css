@@ -32,8 +32,9 @@ a {
   display: flex;
   justify-content: space-between; }
   .flex-container img {
-    width: 49%;
-    margin: auto; }
+    max-width: 49%;
+    margin: auto;
+    max-height: 500px; }
 
 #date-topic {
   opacity: 0.6;

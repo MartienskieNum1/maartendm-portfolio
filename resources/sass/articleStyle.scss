@@ -49,8 +49,9 @@ a {
     justify-content: space-between;
 
     img {
-        width: 49%;
+        max-width: 49%;
         margin: auto;
+        max-height: 500px;
     }
 }
 
