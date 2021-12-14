@@ -50,6 +50,26 @@
                 "<p>We kept looking and looking but with no results. At the end, we became somewhat desperate and thus we began solving puzzles manually which were supposed to be solved by scripting. Like manually noting down 1s and 0s based on long and short beeps in a wav file in an attempt to create a png file. We got to half of it but ran out of time. I still think that if we would've done the other half, we would've found it!</p>",
                 "<p>And so the CSC came to an end. Our group, the Byte Busters, was placed 71st out of the 171 participating. Somewhat dissapointed that we couldn't make it in the second round but very proud of our improved result in comparison with past year. We'll be back next year!</p>"
             ]
+        },
+        {
+            "banner": "img/Toreon.png",
+            "date": "13/12/2021",
+            "topic": "conference",
+            "title": "Toreon's Day of the Cybersecurity Consultant",
+            "description": "A closer look at the different cybersecurity specializations at Toreon",
+            "images": [
+                "img/Toreon-Group.jpg",
+                "img/Toreon-Lecture.jpg",
+                "img/Toreon-LivingRoom.jpg",
+                "img/Toreon-Goodybag.jpg"],
+            "content": [
+                "<p>Toreon is a Belgian digital security company dealing with six areas: Cloud Security; Ethical Hacking; Governance, Risk and Compliance; Security Architecture; Secure Development and Threat Modeling. It is about these six domains that we were educated, about what exactly they mean in the work field and their importance.</p>",
+                "<p>The day started early because of the train we had to catch to Antwerp where Toreon is located. Upon our arrival, we were greeted by the head of HR and received a nicely equipped goodybag. We were then welcomed on the top floor where the cafeteria and seating hook are located. In these rooms, we could enjoy diverse drinks, fruit and gingerbread and have an interesting chat with the staff. We even came across an old friend with whom we shared a student house and is now working at Toreon.</p>",
+                "<p>During the input session, we didn't learn a lot of new practical stuff but that also wasn't quite the objective of this day. We got to see what the people at Toreon are exactly working on and what a job at Toreon would look like.</p>",
+                "<p>I personally found the input about ethical hacking the most interesting because that's also the domain in which I'd like to focus my further career (at this point at least). The input was called \"From 0 to Full Domain Admin\" where we learned to exploit the LLMNR protocol which is used by Windows machines to set-up a connection with another machine more easily. It is an alternate method of host identification next to the usual DNS. The protocol searches for devices of which it has credentials saved. If a device gives a positive response, the source device will send it the credentials in the form of a username and NTLMv2 hash. These credentials can be intercepted by sniffing the network but also by pretending that you are the host that someone is looking for. The hash can then be brute forced locally.</p>",
+                "<p>Things like these really blow my mind! Exploiting day-to-day protocols and processes that are used all the time without being noticed by anyone to get at information you aren't supposed to have is an occupation I'd like to spend a lot more time on and eventually master.</p>",
+                "<p>A big thank you to Toreon for hosting this event which allowed me to have a chat with professionals and spark my interest in cyber security some more.</p>"
+            ]
         }
     ]
 }
