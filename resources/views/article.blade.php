@@ -28,7 +28,7 @@
                 @if(count($post['images']) < 3)
                     <div class="flex-container">
                         @foreach($post['images'] as $image)
-                            <img id="image" src="{{asset($image)}}"/>
+                            <span><img id="image" src="{{asset($image)}}"/></span>
                         @endforeach
                     </div>
                 @else

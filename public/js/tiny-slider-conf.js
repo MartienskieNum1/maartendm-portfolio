@@ -1,13 +1,15 @@
 var slider = tns({
     container: ".my-slider",
-    items: 2,
+    autoWidth: true,
+    items: 3,
     center: true,
     mouseDrag: true,
     speed: 450,
     swipeAngle: false,
     slideBy: "page",
     gutter: 30,
-    nav: false,
+    nav: true,
+    navPosition: "bottom",
     controls: false,
     loop: true
 });
