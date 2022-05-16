@@ -70,6 +70,24 @@
                 "<p>Things like these really blow my mind! Exploiting day-to-day protocols and processes that are used all the time without being noticed by anyone to get at information you aren't supposed to have is an occupation I'd like to spend a lot more time on and eventually master.</p>",
                 "<p>A big thank you to Toreon for hosting this event which allowed me to have a chat with professionals and spark my interest in cyber security some more.</p>"
             ]
+        },
+        {
+            "banner": "img/Cybersec-Europe.jpg",
+            "date": "16/05/2022",
+            "topic": "conference",
+            "title": "Cybersec Europe",
+            "description": "Representing my university, participating for an award and a lot of interesting business topics",
+            "images": [
+                "img/Cybersec-Europe-Proximus.gif",
+		        "img/Cybersec-Europe-Demo.jpg"
+            ],
+            "content": [
+                "<p>Cyrille and I were asked by our university to represent Howest at this year's edition of Cybersec Europe in Brussels. Cybersec is a yearly conference where talkshows, Q&A sessions, workshops and webinars are organised together with an exhibition floor, with the latest innovations related to IT security, data management and cloud solutions.</p>",
+                "<p>On the first day, we stood mainly in the Howest booth to inform anyone who might be interested in the life of two senior students who've studied in Bruges for the past three years. Then, to give a small example of what the subject matter entails, we present a demo that reflects a hypothetical scenario in which a person with bad intentions physically enters a company. This person sees an unattended, unlocked desktop and plugs in a bad USB which lets the desktop connect to a command and control server that now has full control over the system. The hacker in control of the server takes a beautiful picture of the person operating the pawned desktop and cracks the user's hash due to a weak password. These same credentials are then used to pivot to another system with top secret intel. Administrator access in only a few seconds.</p>",
+                "<p>The next day, we participated in the first edition of the \"Next Generation Award\" where the goal is to present an innovative product which contributes to the future of the society. Four groups of students from different universities participated each with interesting ideas. Cyrille and I presented the live demo to the audience and jury who enjoyed the presentation and were both impressed and frightened at the same time as to how easily a system can be hacked. We didn't receive the award, which we saw coming, as we didn't present an innovative product but nontheless, we conveyed the message that cybersecurity specialists are indipensable for the future of a save society. The winning team pitched a passive scanner named \"Argus\" which checks all public domains of a business for vulnerabilities and actively scans a newly joined one. An automatic report is then produced.</p>",
+                "<p>Outside of these activities, we also went looking around for other exhibitors who peaked our interest. For example, we ended up at the booth of the Belgian military with whom we had an interesting conversation about how they go about things and what it takes to join them. Joining them is by all means an open option for me. Another business had a noble cause to gather broken or old IT systems to then recycle or resell. For each laptop collected, 2m² of trees is planted. Furthermore, Cyrille and I went to the photo booth of Proximus to get some pictures taken with Spot the robot dog! We ended the day with a beer in the hand while having conversations with other cyber security enthousiasts.</p>",
+                "<p>Cybersec was definitely the most interesting conference I went to this year! I'm planning to return next year and hopefully present a product that is worth winning the \"Next Generation Award\". Highly recommended!</p>"
+            ]
         }
     ]
 }
